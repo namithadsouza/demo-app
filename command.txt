@@ -1,0 +1,7 @@
+git add "file-name"
+
+git commit "first commit"
+
+git status
+
+git log
